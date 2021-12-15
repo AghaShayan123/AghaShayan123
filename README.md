@@ -6,15 +6,17 @@
 - 😄 Ask me about Web Develpment 🌐 | Mobile Application Development 📱
 - ⚡ Hobbies: I love to travelling 🚗 | Photography 📷
 
-- Exploring : Figma 🎨 | Books 📖 | Technologies 🕵️
+- Exploring : Books 📖 | Technologies 🕵️
 
-### Connect With Me ✌️
-<br>
 <br>
 
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=AghaShayan123&show_icons=true' height:'50'>
 </p>
+
+### Connect With Me ✌️
+<br>
+<br>
 
 Outside of [GitHub](https://github.com/AghaShayan123), You can **find me. Currently I'm **free to contribute**
 
