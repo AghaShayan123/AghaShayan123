@@ -13,8 +13,8 @@
 <p align="center">
   <img src='https://github-readme-stats.vercel.app/api?username=AghaShayan123&show_icons=true' height:'50'>
 </p>
-
 <br>
+
 ### Connect With Me ✌️
 <br>
 
@@ -31,7 +31,6 @@ Outside of [GitHub](https://github.com/AghaShayan123), You can **find me. Curren
 
 ##### Frontend
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
