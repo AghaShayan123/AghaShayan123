@@ -2,7 +2,7 @@
 <br>
 
 - 💻 I’m currently working as MERN Stack Developer
-- 💻 I’m currently learning NextJs 💙
+- 💻 I’m currently learning NextJs 💙 | Block Chain | AWS
 - 😄 Ask me about Web Develpment 🌐 | Mobile Application Development 📱
 - ⚡ Hobbies: I love to travelling 🚗 | Photography 📷
 - 🔍 Exploring : Books 📖 | Technologies 🕵️
