@@ -5,8 +5,7 @@
 - 💻 I’m currently learning NextJs 💙
 - 😄 Ask me about Web Develpment 🌐 | Mobile Application Development 📱
 - ⚡ Hobbies: I love to travelling 🚗 | Photography 📷
-
-- Exploring : Books 📖 | Technologies 🕵️
+- 🔍 Exploring : Books 📖 | Technologies 🕵️
 
 <br>
 
